@@ -988,6 +988,14 @@ blockquote {
   font-size: 12px;
 }
 
+._projects .item-title {
+  color: #086784;
+}
+
+.mbr-masonry div.item-wrapper {
+  filter: drop-shadow(5px 5px 8px #cbc8c8);
+}
+
 
 .item-wrapper .icon-wrapper {
   top: 15% !important;
