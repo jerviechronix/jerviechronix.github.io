@@ -48,7 +48,7 @@
             "startDate": "Oct 2018",
             "endDate": "Apr 2025",
             "description": "Led the end-to-end development of remittance applications for web and mobile platforms.",
-            "logo": "/logos/company-white3.png",
+            "logo": "/assets/logos/company-white3.png",
             "skills": [
                 "ASP.Net Core",
                 "React JS",
@@ -69,7 +69,7 @@
             "startDate": "Sep 2015",
             "endDate": "Oct 2018",
             "description": "Developed, maintained, and enhanced internal remittance applications (VBA/MS Access, web-based) to improve operational efficiency and enable real-time transactions.",
-            "logo": "/logos/company-white3.png",
+            "logo": "/assets/logos/company-white3.png",
             "skills": [
                 "VB/VB.Net",
                 "VBA",
@@ -86,7 +86,7 @@
             "startDate": "Aug 2013",
             "endDate": "Jul 2015",
             "description": "Supervised and managed multiple projects, ensuring timely delivery and adherence to quality standards.",
-            "logo": "/logos/company-white3.png",
+            "logo": "/assets/logos/company-white3.png",
             "skills": [
                 "PHP",
                 "Codeigniter",
