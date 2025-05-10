@@ -1,0 +1,172 @@
+{
+    "general": {
+        "name": "Jervie Marquez",
+        "headline": "Full-Stack Software Developer",
+        "cvPath": "cv/jervie-marquez-cv.pdf",
+        "about": [
+            "Hey there! 👋",
+            "As a dedicated Full-Stack Software Developer, I specialize in building modern, efficient, and scalable web and mobile applications. My expertise spans both front-end and back-end development, enabling me to craft user-centric solutions that address real-world challenges while exceeding expectations.",
+            "Beyond coding, I’m deeply passionate about exploring emerging technologies, contributing to open-source projects, and sharing knowledge to foster growth within the tech community."
+        ],
+        "socials": {
+            "email": "jerviemarquez@mail.com",
+            "linkedin": "https://www.linkedin.com/in/jervie-marquez",
+            "github": "https://jerviechronix.github.io/"
+        }
+    },
+    "skills": [
+        "React JS",
+        "React Native/Expo",
+        "Next JS",
+        "Vue JS",
+        "Typescript",
+        "Tailwind CSS",
+        "Material UI",
+        "ASP.Net Core",
+        "C#",
+        "Python",
+        "MongoDB",
+        "MSSQL",
+        "RESTful APIs",
+        "VB/VB.Net",
+        "VBA",
+        "PHP",
+        "Wordpress",
+        "Laravel",
+        "Codeigniter",
+        "MySQL",
+        "Bootstrap",
+        "Vite",
+        "Git",
+        "Cordova"
+    ],
+    "experiences": [
+        {
+            "title": "SENIOR FULL-STACK WEB & MOBILE APP DEV (UNIT HEAD)",
+            "company": "I-Remit, Inc.",
+            "href": "",
+            "startDate": "Oct 2018",
+            "endDate": "Apr 2025",
+            "description": "Led the end-to-end development of remittance applications for web and mobile platforms.",
+            "logo": "/logos/company-white3.png",
+            "skills": [
+                "ASP.Net Core",
+                "React JS",
+                "React Native/Expo",
+                "Next JS",
+                "Vue JS",
+                "MSSQL",
+                "C#",
+                "Python",
+                "MongoDB",
+                "RESTful APIs"
+            ]
+        },
+        {
+            "title": "JUNIOR SYSTEM WEB DEVELOPER",
+            "company": "Optimum Exchange Remit Inc.",
+            "href": "",
+            "startDate": "Sep 2015",
+            "endDate": "Oct 2018",
+            "description": "Developed, maintained, and enhanced internal remittance applications (VBA/MS Access, web-based) to improve operational efficiency and enable real-time transactions.",
+            "logo": "/logos/company-white3.png",
+            "skills": [
+                "VB/VB.Net",
+                "VBA",
+                "PHP",
+                "Codeigniter",
+                "MySQL",
+                "Bootstrap"
+            ]
+        },
+        {
+            "title": "JUNIOR WEB DEVELOPER / GAME DEVELOPER / SUPERVISOR",
+            "company": "The Harish & Johnsen Group",
+            "href": "",
+            "startDate": "Aug 2013",
+            "endDate": "Jul 2015",
+            "description": "Supervised and managed multiple projects, ensuring timely delivery and adherence to quality standards.",
+            "logo": "/logos/company-white3.png",
+            "skills": [
+                "PHP",
+                "Codeigniter",
+                "MySQL",
+                "Bootstrap",
+                "Unity3D",
+                "Autodesk Maya"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "iCASH Finance Mobile App",
+            "framework": "React Native",
+            "description": "A next-generation digital banking and remittance platform designed for secure and seamless financial transactions. Featuring a Stored Value Facility (e-wallet), users can send money to other wallets, transfer funds abroad with competitive exchange rates and low service fees, and process InstaPay and PESONet transactions. The app also supports QR Ph payments, allowing fast and convenient in-store transactions. Additionally, users can purchase mobile e-load for all Philippine networks and settle bills through an integrated bills payment feature. With advanced authentication and Jumio SDK-powered KYC verification, the platform ensures high security and regulatory compliance, making digital banking and remittance more accessible and efficient.",
+            "href": "https://play.google.com/store/apps/details?id=com.irxdigital.icashfinance&hl=en",
+            "stars": ""
+        },
+        {
+            "name": "Hapi-mart (E-commerce App)",
+            "framework": "next.js/React.js",
+            "description": "A modern and responsive e-commerce platform built using Progressive Web App (PWA) technology. Designed for speed and accessibility, the application provides a seamless shopping experience across all devices. Key features include a dynamic product catalog, advanced search and filtering, a secure checkout process, and integration with popular payment gateways. Optimized for performance and usability, ensuring a smooth and intuitive user experience.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "IREMITX (Web and Mobile Remittance App)",
+            "framework": "Cordova/Vue.js",
+            "description": "A secure and efficient remittance platform enabling seamless money transfers from Australia, Singapore, Canada, Hong Kong, the United Kingdom, Italy, Taiwan, and Japan to the Philippines. Designed with a strong focus on security and compliance, the app features robust authentication mechanisms and integrates the Jumio SDK for a streamlined Know Your Customer (KYC) verification process. Ensuring a fast, reliable, and user-friendly experience, the platform simplifies cross-border transactions while maintaining high security standards.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "InstaPay API - Send and Receive (ISO 20022 standard)",
+            "framework": "C#/ASP.Net Core",
+            "description": "Developed and integrated the InstaPay API into the ICASH Finance App, enabling real-time electronic fund transfers between BSP-supervised banks and e-money issuers. This service allows users to securely transfer PHP funds 24/7 through the app, ensuring seamless and instant transactions across participating financial institutions.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "InstaPay QRPh API (P2P and P2M)",
+            "framework": "C#/ASP.Net Core",
+            "description": "Developed and integrated the InstaPay QRPh API into the ICASH Finance App, enabling users to send money and make merchant payments via QR codes. This implementation aligns with the Bangko Sentral ng Pilipinas (BSP) InstaPay and QR Ph systems, ensuring secure and seamless digital transactions within the Philippines' financial ecosystem.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "InstaPay MPS API (Multi-Proxy Service)",
+            "framework": "C#/ASP.Net Core",
+            "description": "Developed the Multi Proxy Service (MPS) API for the ICASH Finance App, enabling seamless fund transfers via InstaPay. This BancNet-powered service allows users to receive funds in their iCASH accounts using their registered mobile number or email address, enhancing convenience and accessibility for digital banking transactions.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "ICASH Payment Collection API",
+            "framework": "C#/ASP.Net Core",
+            "description": "Developed an API for ICASH Finance payment collection, enabling merchants to generate QRPh codes for client transactions. The API creates virtual accounts for each unique transaction, allowing clients to make payments via digital banking apps or e-wallets. Once a payment is verified, the system notifies the merchant of the successful transaction. It supports both static/dedicated virtual accounts per customer and dynamic virtual accounts for one-time use with reference numbers. Additionally, the API can send webhook or callback notifications to merchants' servers for real-time transaction updates.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "ICASH Checkout API",
+            "framework": "C#/ASP.Net Core",
+            "description": "Developed the ICASH Finance Checkout API, enabling merchants to generate a secure redirect URL hosted on the ICASH domain for seamless payment processing. Only ICASH account holders can complete transactions by logging in with their mobile number, OTP, and PIN. The API ensures secure authentication and allows users to pay for goods and services from partner merchants. Additionally, it supports webhook or callback notifications to merchants' servers for real-time transaction updates.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "ICASH Payout/Disbursement API",
+            "framework": "C#/ASP.Net Core",
+            "description": "Developed the ICASH Finance Payout/Disbursement API, enabling merchants to transfer funds to digital bank accounts and e-wallets via InstaPay. It supports peer-to-peer (P2P) and peer-to-merchant (P2M) transactions, including payments to QRPh codes from other financial institutions. The API features an auto-refund mechanism, ensuring that failed transactions—such as those sent to unregistered accounts—are refunded to the merchant’s pre-funded balance. Additionally, it provides webhook or callback notifications to merchants' servers for real-time transaction updates.",
+            "href": "",
+            "stars": ""
+        },
+        {
+            "name": "ICASH CICO API - Integrated with eTAP Machines",
+            "framework": "C#/ASP.Net Core",
+            "description": "Developed a dedicated API for ICASH Finance cash-ins via eTap self-service payment kiosks. This integration allows users to deposit funds into their ICASH accounts through eTap machines. The API processes incoming transactions, confirms successful payments, and notifies the eTap system in real time. Additionally, it supports webhook or callback notifications to merchants' servers for seamless transaction tracking and reconciliation.",
+            "href": "",
+            "stars": ""
+        }
+    ]
+}

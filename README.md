@@ -1,1 +1,0 @@
-# jerviechronix.github.io
